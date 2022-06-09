@@ -1,0 +1,6 @@
+C:\Users\ATREDOWX\source\repos\Adventure\engine\bin\Debug\engine.dll
+C:\Users\ATREDOWX\source\repos\Adventure\engine\bin\Debug\engine.pdb
+C:\Users\ATREDOWX\source\repos\Adventure\engine\obj\Debug\engine.csproj.AssemblyReference.cache
+C:\Users\ATREDOWX\source\repos\Adventure\engine\obj\Debug\engine.csproj.CoreCompileInputs.cache
+C:\Users\ATREDOWX\source\repos\Adventure\engine\obj\Debug\engine.dll
+C:\Users\ATREDOWX\source\repos\Adventure\engine\obj\Debug\engine.pdb
